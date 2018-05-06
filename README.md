@@ -4,4 +4,5 @@ In this project we explored the capabilities of the pix2pix model to filter diff
 Future work includes tweaking the model to learn to filter all the earlier mentioned noises using the same trained model (not to train a specific model per noise as before).
 
 The model is forked from https://github.com/Eyyub/tensorflow-pix2pix
+
 all further alterations are from the current authors of this repository
