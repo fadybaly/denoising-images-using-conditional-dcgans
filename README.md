@@ -7,4 +7,4 @@ The model is trained on the Labeled Faces in the Wild dataset using NVIDIA GTX 1
 
 The model is forked from https://github.com/Eyyub/tensorflow-pix2pix
 
-all further alterations are from the current authors of this repository
+all future modifications are from the current authors of this repository
