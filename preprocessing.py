@@ -2,7 +2,7 @@
 """
 Created on Fri Apr 13 14:55:06 2018
 
-@author: Antonia
+@author: Fady Baly
 """
 import os
 import cv2
