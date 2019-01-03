@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 """
 Created on Tue Apr 24 19:25:59 2018
-@author: antonia 
+@author: Fady Baly 
 """
 import numpy as np
 import random
